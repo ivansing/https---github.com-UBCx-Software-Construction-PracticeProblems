@@ -1,0 +1,2 @@
+It says that when we shift knowledge domain,
+we should use a helper function.
